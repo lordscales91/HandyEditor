@@ -1,0 +1,8 @@
+{
+    "name": "io.github.lordscales91.handyeditor",
+    "displayName": "HandyEditor",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Handy Editor tools to make the lifes of Unity devs easier.",
+    "dependencies": { }
+}
